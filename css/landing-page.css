@@ -15,7 +15,7 @@ h6 {
 header.masthead {
   position: relative;
   background-color: #343a40;
-  background: url('../img/bg-masthead.jpg') no-repeat center center;
+  background: url('../img/clouds.JPG') no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -64,12 +64,14 @@ header.masthead h1 {
 }
 
 .features-icons {
-  padding-top: 7rem;
-  padding-bottom: 7rem;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
 }
 
 .features-icons .features-icons-item {
   max-width: 20rem;
+  border: 4px #287aff solid;
+  border-radius: 10px;
 }
 
 .features-icons .features-icons-item .features-icons-icon {
@@ -127,4 +129,15 @@ footer.footer {
 
 .navbar-brand {
   font-size: 2rem;
+}
+
+.bg-grey {
+  background-color: #f8f9fa;
+}
+
+.contact {
+  color: black;
+  font-size: 24pt;
+  margin: 0;
+  padding-top: 2rem;
 }
