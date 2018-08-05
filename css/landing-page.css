@@ -141,3 +141,7 @@ footer.footer {
   margin: 0;
   padding-top: 2rem;
 }
+
+.navbar-brand {
+  margin-right: 0;
+}
