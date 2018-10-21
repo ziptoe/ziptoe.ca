@@ -208,3 +208,7 @@ footer.footer {
   border-radius: 10px;
   padding: 16px;
 }
+
+.the-best a {
+  font-size: 2rem;
+}
