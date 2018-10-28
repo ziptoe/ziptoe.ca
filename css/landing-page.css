@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -211,4 +215,8 @@ footer.footer {
 
 .the-best a {
   font-size: 2rem;
+}
+
+.features-icons h3 {
+  font-size: 1.55rem;
 }
