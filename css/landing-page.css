@@ -18,14 +18,14 @@ h6 {
 
 header.masthead {
   position: relative;
-  background-color: #355e99;
-  background: url('../img/clouds.JPG') no-repeat center center;
+  background: #7093c4 url('../img/clouds.JPG') no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   padding-top: 8rem;
   padding-bottom: 8rem;
+  width: ;
 }
 
 /* header.masthead .overlay {
@@ -35,7 +35,7 @@ header.masthead {
   width: 100%;
   top: 0;
   left: 0;
-  opacity: 1;
+  opacity: 0.5;
 } */
 
 header.masthead h1 {
